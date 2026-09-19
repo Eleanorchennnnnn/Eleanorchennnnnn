@@ -1,20 +1,5 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '84c325f2-3025-4151-a163-5a4c2ba7c439'
-  PropagateID: '84c325f2-3025-4151-a163-5a4c2ba7c439'
-  ReservedCode1: 'dcb39e83-4345-413b-9ce0-1858bc772f10'
-  ReservedCode2: 'dcb39e83-4345-413b-9ce0-1858bc772f10'
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,50:F7DF1E,100:42B883&height=180&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Eleanorchennnnnn&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Java%20%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%20%E5%85%A8%E6%A0%88%E6%96%B9%E5%90%91&descAlignY=55&descSize=16&animation=fadeIn" alt="banner" width="100%" />
-
 <div align="center">
-
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=Eleanorchennnnnn&style=for-the-badge&color=ED8B00)
 
 </div>
