@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,50:F7DF1E,100:42B883&height=180&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Eleanorchennnnnn&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Java%20%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%20%E5%85%A8%E6%A0%88%E6%96%B9%E5%90%91&descAlignY=55&descSize=16&animation=fadeIn" alt="banner" width="100%" />
 <div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=Eleanorchennnnnn&style=for-the-badge&color=ED8B00)
-
 </div>
 
 ## 🧑‍💻 关于我
@@ -74,6 +72,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,50:F7DF1E,100:ED8B00&height=80&section=footer" alt="footer" width="100%" />
 </p>
-
-
-> AI生成
