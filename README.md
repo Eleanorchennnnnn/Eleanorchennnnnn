@@ -1,16 +1,57 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,50:F7DF1E,100:42B883&height=180&section=header&text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20Eleanorchennnnnn&fontSize=34&fontAlignY=34&fontColor=ffffff&desc=Java%20%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%20%C2%B7%20%E5%85%A8%E6%A0%88%E6%96%B9%E5%90%91&descAlignY=55&descSize=16&animation=fadeIn" alt="banner" width="100%" />
 
-<!--
-**Eleanorchennnnnn/Eleanorchennnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://komarev.com/ghpvc/?username=Eleanorchennnnnn&style=for-the-badge&color=ED8B00)
+
+</div>
+
+## 🧑‍💻 关于我
+
+- 🔭 专注于 **Java** 的全栈开发者
+- 🌱 前端技术：**Vue.js** / JavaScript / HTML / CSS
+- 💡 追求整洁的代码与清晰的结构，保持持续学习
+- 📫 欢迎通过 [GitHub](https://github.com/Eleanorchennnnnn) 与我交流
+
+## 🛠️ 技术栈
+
+<div align="center">
+
+
+![My Skills](https://skillicons.dev/icons?i=java,js,vue,html,css)
+
+<br/>
+
+![Java: ](https://img.shields.io/badge/Java--ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vue.js: ](https://img.shields.io/badge/Vue.js--42B883?style=for-the-badge&logo=vuedotjs&logoColor=white) ![HTML5: ](https://img.shields.io/badge/HTML5--E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3: ](https://img.shields.io/badge/CSS3--1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+## 📊 GitHub 数据
+
+<div align="center">
+
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eleanorchennnnnn&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=Eleanorchennnnnn&theme=tokyonight)
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eleanorchennnnnn&theme=tokyonight)
+
+</div>
+
+## 🏆 精选项目
+
+<div align="center">
+
+
+[![geo-core-analysis](https://socialify.git.ci/Eleanorchennnnnn/geo-core-analysis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)](https://github.com/Eleanorchennnnnn/geo-core-analysis)
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:42B883,50:F7DF1E,100:ED8B00&height=80&section=footer" alt="footer" width="100%" />
+</p>
+
