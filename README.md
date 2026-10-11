@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 关于我
 
-- 🔭 Java 开发工程师，全栈方向：后端 **Spring Boot + Redis**，前端 **Vue3**
+- 🔭 Java 开发，全栈方向：后端 **Spring Boot + Redis**，前端 **Vue3**
 - 💡 追求整洁的代码与清晰的结构，保持持续学习
 - 📫 欢迎通过 [GitHub](https://github.com/Eleanorchennnnnn) 与我交流
 
